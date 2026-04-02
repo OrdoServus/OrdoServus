@@ -5,7 +5,7 @@
 > pastorale Mitarbeiter entwickelt wurde. Sie kombiniert eine strukturierte 
 > Gottesdienst-Planung mit einem flexiblen Notizbuch.
 
-![License](https://img.shields.io/github/license/ordoservus/ordoservus)
+![License](https://img.shields.io/github/license/ordoservus/OrdoServus)
 
 ## Funktionen
 
