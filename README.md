@@ -40,4 +40,4 @@ OrdoServus ist auf verschiedene Repositories aufgeteilt. Folgend eine Übersicht
 
 Wir verwenden die [Affero General Public License](/LICENSE) ([warum?](http://www.gnu.org/licenses/why-affero-gpl)) – Du
 bist verpflichtet, Änderungen an dieser Software zu veröffentlichen.
-Bitte erstelle keine eigene öffentliche Instanz von Träwelling, sondern versuche stattdessen, eine verbesserte Version für alle zu entwickeln.
+Bitte erstelle keine eigene öffentliche Instanz von OrdoServus, sondern versuche stattdessen, eine verbesserte Version für alle zu entwickeln.
